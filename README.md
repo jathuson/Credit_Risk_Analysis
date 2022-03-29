@@ -11,7 +11,7 @@ Naive Random Oversampling
 Oversampling SMOTE
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/93154363/160525972-030ad2b5-746c-4119-af0c-65ecaaeb721f.png)
 
-Undersampling 
+Undersampling
 ![Undersampling](https://user-images.githubusercontent.com/93154363/160525973-708d77f6-e6a3-4f7b-a2d3-733d2de94992.png)
 
 Combination (Over and Under)
